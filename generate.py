@@ -279,3 +279,5 @@ if __name__ == '__main__':
     s = time.time()
     main()
     print(time.time()-s,'sec')
+
+    print("Hi")
